@@ -4,7 +4,7 @@ A C# implementation that accepts a fractional number in string format and return
 
 ## How it works:
 
-### 1. Calling the method below with parameter NumberInWords("9101003512035") will return an object:
+### 1. Calling the method with parameter 'NumberInWords("9101003512035")' will return an object:
 ```code
 {
   whole: "Nine Trillion One Hundred and One Billion Three Million Five Hundred and Twelve Thousand and Thirty Five",
@@ -12,7 +12,7 @@ A C# implementation that accepts a fractional number in string format and return
 }
 ```
 
-### 2. Calling the method below with parameter NumberInWords("535.156") will return an object:
+### 2. Calling the method with parameter 'NumberInWords("535.156")' will return an object:
 ```code
 {
   whole: "Five Hundred and Thirty Five",
