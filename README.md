@@ -25,7 +25,7 @@ A C# implementation that accepts a fractional number in string format and return
 2. Add Reference to the dll in your .NET application
 3. Bring the namespace "info.dwleke.numbertowords" to scope in your Class
 4. Instantiate an object of the Class "NumberToWord"
-5. Call the public function "NumberInWords()"
+5. Call the public function "NumberInWords()" and pass a number in string format.
 
 
 ## Example
